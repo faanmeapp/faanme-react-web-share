@@ -1,6 +1,6 @@
 # react-web-share
 
-Tiny [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) wrapper with fallback for unsupported browsers
+Tiny [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) wrapper with fallback for unsupported browsers themed for FaanmeApp
 
 [![GitHub Actions Status](https://github.com/hc-oss/react-web-share/workflows/NodeJS/badge.svg)](https://github.com/hc-oss/react-web-share/actions)
 [![NPM](https://img.shields.io/npm/v/react-web-share.svg)](https://npm.im/react-web-share)
